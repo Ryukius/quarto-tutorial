@@ -1,16 +1,6 @@
----
-title: macOS＋VS Code／CursorでQuartoを使う：Stata・Python・Rの導入手順
-category: Research Tips & Materials/Research-environments
-tags:
-created_at: '2026-09-16T17:31:29+09:00'
-updated_at: '2026-09-16T19:28:10+09:00'
-published: true
-number: 842
----
+# README：macOS＋VS Code／CursorでQuartoを使う：Stata・Python・Rの導入手順
 
 作成者：ChatGPT
-
-# README：macOS＋VS Code／CursorでQuartoを使う：Stata・Python・Rの導入手順
 
 ## この記事の目的と読み方
 
