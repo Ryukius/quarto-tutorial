@@ -1,0 +1,6 @@
+.venv/
+.quarto/
+_output/
+**/*_cache/
+**/*_files/
+.DS_Store

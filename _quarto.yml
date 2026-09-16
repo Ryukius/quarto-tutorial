@@ -1,0 +1,12 @@
+project:
+  type: default
+  output-dir: _output       # Output directory
+  execute-dir: project      # Execute directory
+  render:
+    - "*.qmd"
+
+format:
+  html:
+    toc: true               # Table of contents
+    code-fold: true         # Code folding
+    embed-resources: true   # Embed resources

@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "quarto.pythonPath": "${workspaceFolder}/.venv/bin/python",
+  "jupyter.kernels.excludePythonEnvironments": [],
+  "jupyter.interactiveWindow.creationMode": "perFile",
+  "notebook.defaultFormatter": "none",
+  "files.associations": {
+    "*.qmd": "quarto"
+  }
+}

@@ -1,0 +1,22 @@
+---
+title: "Stataの動作確認"
+jupyter: nbstata
+---
+
+## 回帰分析
+
+Stata付属のデータを使って、回帰分析を実行する。
+
+```{stata}
+sysuse auto
+regress price mpg weight
+```
+
+## 散布図
+
+```{stata}
+*| label: fig-stata
+*| fig-cap: "燃費と価格"
+
+scatter price mpg
+```
