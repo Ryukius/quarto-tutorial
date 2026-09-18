@@ -6,3 +6,8 @@ _output/
 .DS_Store
 /.quarto/
 **/*.quarto_ipynb
+
+# Local environment files at any directory depth.
+.env
+.env.*
+!.env.example
